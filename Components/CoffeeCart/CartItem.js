@@ -26,5 +26,3 @@ class CartItem extends Component {
     );
   }
 }
-
-export default CartItem;
